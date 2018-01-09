@@ -1,0 +1,6 @@
+model_checkpoint_path: "deeep_cnn.ckpt-55000"
+all_model_checkpoint_paths: "deeep_cnn.ckpt-54600"
+all_model_checkpoint_paths: "deeep_cnn.ckpt-54700"
+all_model_checkpoint_paths: "deeep_cnn.ckpt-54800"
+all_model_checkpoint_paths: "deeep_cnn.ckpt-54900"
+all_model_checkpoint_paths: "deeep_cnn.ckpt-55000"

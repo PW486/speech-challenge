@@ -1,0 +1,6 @@
+model_checkpoint_path: "deeeep_cnn.ckpt-240000"
+all_model_checkpoint_paths: "deeeep_cnn.ckpt-239600"
+all_model_checkpoint_paths: "deeeep_cnn.ckpt-239700"
+all_model_checkpoint_paths: "deeeep_cnn.ckpt-239800"
+all_model_checkpoint_paths: "deeeep_cnn.ckpt-239900"
+all_model_checkpoint_paths: "deeeep_cnn.ckpt-240000"
