@@ -41,5 +41,5 @@ Testing Dataset [https://www.kaggle.com/c/tensorflow-speech-recognition-challeng
 * cnn_trad_fpool3 (77%)
 * esc_cnn (77%)
 * deep_cnn (79%)
-* deeep_cnn (81%)
+* deeep_cnn (82%)
 * deeeep_cnn (79%)
